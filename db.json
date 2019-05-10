@@ -1,0 +1,67 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Vacations",
+      "images": [
+      	{
+			"id": 1,
+			"caption": "beach 1",
+			"url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 2,
+			"caption": "beach 2",
+			"url": "https://images.pexels.com/photos/221471/pexels-photo-221471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 3,
+			"caption": "beach 3",
+			"url": "https://images.pexels.com/photos/319893/pexels-photo-319893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ocean",
+      "images": [
+      	{
+			"id": 1,
+			"caption": "ocean 1",
+			"url": "https://images.pexels.com/photos/100360/pexels-photo-100360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 2,
+			"caption": "ocean 2",
+			"url": "https://images.pexels.com/photos/462162/pexels-photo-462162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 3,
+			"caption": "ocean 3",
+			"url": "https://images.pexels.com/photos/783722/pexels-photo-783722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tigers",
+      "images": [
+      	{
+			"id": 1,
+			"caption": "tiger 1",
+			"url": "https://images.pexels.com/photos/39629/tiger-tiger-baby-tigerfamile-young-39629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 2,
+			"caption": "tiger 2",
+			"url": "https://images.pexels.com/photos/46251/sumatran-tiger-tiger-big-cat-stripes-46251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"       	
+      	},
+      	{
+			"id": 3,
+			"caption": "tiger 3",
+			"url": "https://images.pexels.com/photos/1386559/pexels-photo-1386559.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"       	
+      	}
+      ]
+    }
+  ]
+}
