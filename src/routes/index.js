@@ -1,5 +1,7 @@
 import Home from './Home';
+import Images from './Images';
 
 export {
-    Home
+    Home,
+    Images
 }
